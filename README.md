@@ -71,38 +71,38 @@ Based on the attached Databel case study, the overall data analysis process can 
 -	Use the insights to highlight areas where Databel could investigate and prioritize customer retention opportunities. The case study explicitly identifies communicating insights to stakeholders as the final stage of the analysis flow.
 
 ## Key Visuals and Insights
-- ##### KPI Cards – Customer Overview
+- #### KPI Cards – Customer Overview
   
 The dashboard begins with three key KPIs: 
 Number of Customers: 6,687
 Number of Churned Customers: 1,796
 Churn Rate: 26.86%
  These KPIs provide an immediate overview of the company's overall customer retention situation and allow users to monitor the scale of customer attrition.
-- ##### Churn Reasons 
+- #### Churn Reasons 
 
 The bar chart ranks the different reasons why customers leave Databel, allowing users to identify the most significant drivers of customer attrition. The visualization is filtered to churned customers and displays each reason as a percentage of the total churners.
 This helps Databel understand what is causing customers to churn and where retention efforts should be focused.
-- ##### Churn Category 
+- #### Churn Category 
 
 The pie chart visual groups of individual churn reasons into broader categories, making it easier to identify the major themes driving customer attrition. The analysis identifies Competitor as the most prevalent churn category, highlighting competitive pressure as an important area for Databel to investigate.
-- ##### Geographic Churn Map
+- #### Geographic Churn Map
 
 An interactive map displays customer churn rates across U.S. states and allows stakeholders to identify geographical areas with unusually high churn. California (CA) stands out with a particularly high overall churn rate of 63.24% in the analysis.
-- ##### Contract & Customer Segment Analysis
+- #### Contract & Customer Segment Analysis
 
 The column chart visuals compare customer characteristics and churn across different contract types, including Month-to-Month, One Year and Two Year contracts, revealing substantial differences in churn. The analysis highlights a substantial difference in churn behavior: Month-to-Month customers have a much higher churn rate of 46.29%, while One Year contract has churn rate of  11.29% and Two Year contract customers have a substantially lower churn rate of 2.78%.
 - Overview
 - <img width="637" height="373" alt="Overview" src="https://github.com/user-attachments/assets/1fbb1e71-7a5d-4391-8673-09038df5623f" />
 
-- ##### Age & Demographic Analysis
+- #### Age & Demographic Analysis
 
 The column and line chart visuals analyze churn patterns across customer segments. Customers are categorized into age groups such as Senior, Under 30 and Other, while age is further analyzed using five-year bins. 
 
 The analysis shows that Senior customers have a significantly higher churn rate of 38.46%, helping identify a customer segment that may require additional retention attention.
-- ##### Churn Demographics
+- Churn Demographics
 - <img width="663" height="372" alt="Churn Demographics" src="https://github.com/user-attachments/assets/6ceb059b-079f-47c6-9c31-850961d8cbd6" />
  
-- ##### Customer Service Analysis
+- #### Customer Service Analysis
 
 The line chart compares average customer service calls between churned and non-churned customers and can further be broken down by state.
 The analysis identifies a relationship between customer service calls and churn, indicating that customers who churn tend to have a higher rate of customer service calls than non-churners.
