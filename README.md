@@ -87,7 +87,7 @@ An interactive map displays customer churn rates across U.S. states and allows s
 - Contract & Customer Segment Analysis
 The column chart visuals compare customer characteristics and churn across different contract types, including Month-to-Month, One Year and Two Year contracts, revealing substantial differences in churn. The analysis highlights a substantial difference in churn behavior: Month-to-Month customers have a much higher churn rate of 46.29%, while One Year contract has churn rate of  11.29% and Two Year contract customers have a substantially lower churn rate of 2.78%.
 - Overview
-  <img width="637" height="374" alt="Overview" src="https://github.com/user-attachments/assets/602b1107-30fc-4fbf-8ad1-d650c4687a62" />
+- <img width="637" height="374" alt="Overview" src="https://github.com/user-attachments/assets/602b1107-30fc-4fbf-8ad1-d650c4687a62" />
 
 - Age & Demographic Analysis
 The column and line chart visuals analyze churn patterns across customer segments. Customers are categorized into age groups such as Senior, Under 30 and Other, while age is further analyzed using five-year bins. 
