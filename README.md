@@ -72,15 +72,14 @@ Based on the attached Databel case study, the overall data analysis process can 
 
 ## Key Visuals and Insights
 - #### KPI Cards – Customer Overview
-  
-The dashboard begins with three key KPIs: 
+   The dashboard begins with three key KPIs: 
 Number of Customers: 6,687
 Number of Churned Customers: 1,796
 Churn Rate: 26.86%
  These KPIs provide an immediate overview of the company's overall customer retention situation and allow users to monitor the scale of customer attrition.
-- #### Churn Reasons 
+- #### Churn Reasons
 
-The bar chart ranks the different reasons why customers leave Databel, allowing users to identify the most significant drivers of customer attrition. The visualization is filtered to churned customers and displays each reason as a percentage of the total churners.
+  The bar chart ranks the different reasons why customers leave Databel, allowing users to identify the most significant drivers of customer attrition. The visualization is filtered to churned customers and displays each reason as a percentage of the total churners.
 This helps Databel understand what is causing customers to churn and where retention efforts should be focused.
 - #### Churn Category 
 
