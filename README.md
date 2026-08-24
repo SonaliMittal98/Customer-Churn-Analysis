@@ -86,8 +86,7 @@ The pie chart visual groups of individual churn reasons into broader categories,
 An interactive map displays customer churn rates across U.S. states and allows stakeholders to identify geographical areas with unusually high churn. California (CA) stands out with a particularly high overall churn rate of 63.24% in the analysis.
 - Contract & Customer Segment Analysis
 The column chart visuals compare customer characteristics and churn across different contract types, including Month-to-Month, One Year and Two Year contracts, revealing substantial differences in churn. The analysis highlights a substantial difference in churn behavior: Month-to-Month customers have a much higher churn rate of 46.29%, while One Year contract has churn rate of  11.29% and Two Year contract customers have a substantially lower churn rate of 2.78%.
-- Overview
-  <img width="637" height="374" alt="Overview" src="https://github.com/user-attachments/assets/49e9f5e9-f46c-426b-b67f-83ee31fe8a0a" />
+- Overview <img width="637" height="374" alt="Overview" src="https://github.com/user-attachments/assets/49e9f5e9-f46c-426b-b67f-83ee31fe8a0a" />
 
 - Age & Demographic Analysis
 The column and line chart visuals analyze churn patterns across customer segments. Customers are categorized into age groups such as Senior, Under 30 and Other, while age is further analyzed using five-year bins. 
