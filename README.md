@@ -72,14 +72,16 @@ Based on the attached Databel case study, the overall data analysis process can 
 
 ## Key Visuals and Insights
 - #### KPI Cards – Customer Overview
-   The dashboard begins with three key KPIs: 
-Number of Customers: 6,687
-Number of Churned Customers: 1,796
-Churn Rate: 26.86%
- These KPIs provide an immediate overview of the company's overall customer retention situation and allow users to monitor the scale of customer attrition.
+   The dashboard begins with three key KPIs:
+  Number of Customers: 6,687
+
+  Number of Churned Customers: 1,796
+
+  Churn Rate: 26.86%
+
+  These KPIs provide an immediate overview of the company's overall customer retention situation and allow users to monitor the scale of customer attrition.
 - #### Churn Reasons
-  The bar chart ranks the different reasons why customers leave Databel, allowing users to identify the most significant drivers of customer attrition. The visualization is filtered to churned customers and displays each reason as a percentage of the total churners.
-This helps Databel understand what is causing customers to churn and where retention efforts should be focused.
+  The bar chart ranks the different reasons why customers leave Databel, allowing users to identify the most significant drivers of customer attrition. The visualization is filtered to churned customers and displays each reason as a percentage of the total churners. This helps Databel understand what is causing customers to churn and where retention efforts should be focused.
 - #### Churn Category
   The pie chart visual groups of individual churn reasons into broader categories, making it easier to identify the major themes driving customer attrition. The analysis identifies Competitor as the most prevalent churn category, highlighting competitive pressure as an important area for Databel to investigate.
 - #### Geographic Churn Map
@@ -91,13 +93,15 @@ This helps Databel understand what is causing customers to churn and where reten
 
 - #### Age & Demographic Analysis
   The column and line chart visuals analyze churn patterns across customer segments. Customers are categorized into age groups such as Senior, Under 30 and Other, while age is further analyzed using five-year bins.
+
   The analysis shows that Senior customers have a significantly higher churn rate of 38.46%, helping identify a customer segment that may require additional retention attention.
 - Churn Demographics
 - <img width="663" height="372" alt="Churn Demographics" src="https://github.com/user-attachments/assets/6ceb059b-079f-47c6-9c31-850961d8cbd6" />
  
 - #### Customer Service Analysis
   The line chart compares average customer service calls between churned and non-churned customers and can further be broken down by state.
-The analysis identifies a relationship between customer service calls and churn, indicating that customers who churn tend to have a higher rate of customer service calls than non-churners.
+
+  The analysis identifies a relationship between customer service calls and churn, indicating that customers who churn tend to have a higher rate of customer service calls than non-churners.
 - Customer Service
 - <img width="1273" height="745" alt="Insights" src="https://github.com/user-attachments/assets/a9578f86-34be-43c0-b915-7e100bf622c1" />
 
