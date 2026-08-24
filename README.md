@@ -73,6 +73,7 @@ Based on the attached Databel case study, the overall data analysis process can 
 ## Key Visuals and Insights
 - #### KPI Cards – Customer Overview
    The dashboard begins with three key KPIs:
+
   Number of Customers: 6,687
 
   Number of Churned Customers: 1,796
