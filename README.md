@@ -111,7 +111,8 @@ The analysis identifies a relationship between customer service calls and churn,
 
 ## Strategic Recommendations & Business Opportunities
 Based on the analysis, the following strategic opportunities were identified to help Databel address key churn drivers, improve customer retention, and prioritize high-risk customer segments.
-- Strengthen Competitive Position: Since Competitor is the leading churn category, Databel should investigate competitor pricing, offers, devices, and services and develop targeted retention offers for customers at risk of switching. 
+- ### Strengthen Competitive Position:
+Since Competitor is the leading churn category, Databel should investigate competitor pricing, offers, devices, and services and develop targeted retention offers for customers at risk of switching. 
 - Encourage Longer-Term Contracts: Month-to-month customers have substantially higher churn than customers on longer-term contracts. Databel could focus on incentives that encourage customers to move toward one-year or two-year contracts. 
 - Prioritize High-Risk Customer Segments: Segments with elevated churn—such as senior customers and customers with specific combinations of contract, payment, and service characteristics—should receive targeted retention campaigns rather than a one-size-fits-all approach. 
 - Investigate High-Churn States: California's particularly high churn rate of 63.24% indicates that state-level factors should be investigated separately. Databel could analyze local competition, pricing, service quality, and customer preferences to understand the underlying causes. 
