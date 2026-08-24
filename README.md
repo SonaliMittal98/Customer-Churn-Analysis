@@ -11,6 +11,7 @@ The primary objective is to understand why customers are churning, identify cust
 - <a href="https://github.com/SonaliMittal98/Customer-Churn-Analysis/blob/main/Databel%20-%20Data.csv.xlsx">Databel-data</a>
 ## Data Source
 Source: DataCamp
+
 The Databel – data.csv dataset contains 29 columns, with one row representing each customer. It includes customer identifiers, churn information, demographic characteristics, account details, contract and payment information, service usage, customer service interactions, and various plan-related attributes.
 The accompanying metadata document was used to understand the fields and their categories during the analysis.
 - <a href="https://github.com/SonaliMittal98/Customer-Churn-Analysis/blob/main/Metadata%20-Analyzing%20Customer%20Churn.pdf">Metadata Sheet</a>
