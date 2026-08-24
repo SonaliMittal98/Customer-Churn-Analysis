@@ -70,7 +70,7 @@ Based on the attached Databel case study, the overall data analysis process can 
 -	Present the findings through interactive dashboards designed to make the analysis easy for stakeholders to understand.
 -	Use the insights to highlight areas where Databel could investigate and prioritize customer retention opportunities. The case study explicitly identifies communicating insights to stakeholders as the final stage of the analysis flow.
 
-##Key Visuals and Insights
+## Key Visuals and Insights
 - KPI Cards – Customer Overview
 The dashboard begins with three key KPIs: 
 Number of Customers: 6,687
