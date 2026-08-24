@@ -87,11 +87,19 @@ An interactive map displays customer churn rates across U.S. states and allows s
 - Contract & Customer Segment Analysis
 The column chart visuals compare customer characteristics and churn across different contract types, including Month-to-Month, One Year and Two Year contracts, revealing substantial differences in churn. The analysis highlights a substantial difference in churn behavior: Month-to-Month customers have a much higher churn rate of 46.29%, while One Year contract has churn rate of  11.29% and Two Year contract customers have a substantially lower churn rate of 2.78%.
 - Overview
-  !<img width="637" height="374" alt="Overview" src="https://github.com/user-attachments/assets/602b1107-30fc-4fbf-8ad1-d650c4687a62" />
+- <img width="637" height="374" alt="Overview" src="https://github.com/user-attachments/assets/602b1107-30fc-4fbf-8ad1-d650c4687a62" />
+
 - Age & Demographic Analysis
 The column and line chart visuals analyze churn patterns across customer segments. Customers are categorized into age groups such as Senior, Under 30 and Other, while age is further analyzed using five-year bins. 
-The analysis shows that Senior customers have a significantly higher churn rate of 38.46%, helping identify a customer segment that may require additional retention attention. 
+The analysis shows that Senior customers have a significantly higher churn rate of 38.46%, helping identify a customer segment that may require additional retention attention.
+- Churn Demographics
+- <img width="663" height="372" alt="Churn Demographics" src="https://github.com/user-attachments/assets/6ceb059b-079f-47c6-9c31-850961d8cbd6" />
+ 
 - Customer Service Analysis
 The line chart compares average customer service calls between churned and non-churned customers and can further be broken down by state.
 The analysis identifies a relationship between customer service calls and churn, indicating that customers who churn tend to have a higher rate of customer service calls than non-churners.
+- Customer Service
+- <img width="1273" height="745" alt="Insights" src="https://github.com/user-attachments/assets/a9578f86-34be-43c0-b915-7e100bf622c1" />
+
+
 
