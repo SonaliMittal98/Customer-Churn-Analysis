@@ -90,9 +90,8 @@ This helps Databel understand what is causing customers to churn and where reten
 - <img width="637" height="373" alt="Overview" src="https://github.com/user-attachments/assets/1fbb1e71-7a5d-4391-8673-09038df5623f" />
 
 - #### Age & Demographic Analysis
-  The column and line chart visuals analyze churn patterns across customer segments. Customers are categorized into age groups such as Senior, Under 30 and Other, while age is further analyzed using five-year bins. 
-
-The analysis shows that Senior customers have a significantly higher churn rate of 38.46%, helping identify a customer segment that may require additional retention attention.
+  The column and line chart visuals analyze churn patterns across customer segments. Customers are categorized into age groups such as Senior, Under 30 and Other, while age is further analyzed using five-year bins.
+  The analysis shows that Senior customers have a significantly higher churn rate of 38.46%, helping identify a customer segment that may require additional retention attention.
 - Churn Demographics
 - <img width="663" height="372" alt="Churn Demographics" src="https://github.com/user-attachments/assets/6ceb059b-079f-47c6-9c31-850961d8cbd6" />
  
