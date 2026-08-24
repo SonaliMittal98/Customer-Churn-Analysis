@@ -8,7 +8,7 @@ This project analyzes why customers are leaving Databel, a telecommunications pr
 The primary objective is to understand why customers are churning, identify customer segments and factors associated with higher churn, and provide actionable insights that can help Databel improve customer retention.
 
 ## Dataset used
-- <a href="https://github.com/SonaliMittal98/Customer-Churn-Analysis/blob/main/Databel%20-%20Data.csv.xlsx">Databel-data</a>
+- <a href="https://github.com/SonaliMittal98/Customer-Churn-Analysis/blob/main/Databel%20-%20Data.csv.xlsx">Databel-data.csv</a>
 ## Data Source
 Source: DataCamp
 
